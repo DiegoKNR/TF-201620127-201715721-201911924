@@ -3,5 +3,7 @@
 Integrantes del TF:
 
 Freddy Jesus Aguilar Arce
+
 Alfredo Nolberto Farro Caballero
+
 Diego Alonso Rosado Iporre 
