@@ -27,3 +27,8 @@ Contempla los siguientes datos:
 Hito 0, desarrollar un código en Python (*.py / *. ipynb) que genere una lista de adyacencia,
 a partir del cual se construya un grafo de la ciudad de Lima, teniendo como conjunto de
 datos los archivos
+
+
+# Hito 1
+
+Crear link de github, sin milestones porque hice el trabajo por mi cuenta
